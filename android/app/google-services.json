@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296938475330",
+    "project_id": "fir-phone-auth-9a68a",
+    "storage_bucket": "fir-phone-auth-9a68a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296938475330:android:04b80c83ef4cc052f182db",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBec5vLXkEQl8QiRM_uh1FiC23wx4mkYYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
